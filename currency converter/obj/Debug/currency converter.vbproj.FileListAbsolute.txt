@@ -1,0 +1,12 @@
+C:\Users\zoey\source\repos\currency converter\currency converter\bin\Debug\currency converter.exe.config
+C:\Users\zoey\source\repos\currency converter\currency converter\bin\Debug\currency converter.exe
+C:\Users\zoey\source\repos\currency converter\currency converter\bin\Debug\currency converter.pdb
+C:\Users\zoey\source\repos\currency converter\currency converter\bin\Debug\currency converter.xml
+C:\Users\zoey\source\repos\currency converter\currency converter\obj\Debug\currency_converter.Form1.resources
+C:\Users\zoey\source\repos\currency converter\currency converter\obj\Debug\currency_converter.Resources.resources
+C:\Users\zoey\source\repos\currency converter\currency converter\obj\Debug\currency converter.vbproj.GenerateResource.cache
+C:\Users\zoey\source\repos\currency converter\currency converter\obj\Debug\currency converter.vbproj.CoreCompileInputs.cache
+C:\Users\zoey\source\repos\currency converter\currency converter\obj\Debug\currency converter.exe
+C:\Users\zoey\source\repos\currency converter\currency converter\obj\Debug\currency converter.xml
+C:\Users\zoey\source\repos\currency converter\currency converter\obj\Debug\currency converter.pdb
+C:\Users\zoey\source\repos\currency converter\currency converter\obj\Debug\currency converter.vbprojAssemblyReference.cache
